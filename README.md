@@ -1,4 +1,4 @@
-*photoMap*
+# photoMap
 
 **photoMap** is an app that allows the user to search for locations using the [Foursquare API](https://developer.foursquare.com/docs) and create a pin with an image annotation.
 
